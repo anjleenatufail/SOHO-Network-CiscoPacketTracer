@@ -1,5 +1,5 @@
-# SOHO-Network-Design
-The primary aim of this project is to develop a robust and efficient network infrastructure of a SOHO (Small Office Home Office) Network. This involves the creation of segmented VLANs to manage traffic effectively, configuring routers to enable inter-VLAN communication and integrating DHCP services for automatically IP address allocation.
+# Objective of SOHO Network Design
+The primary aim of this project is to develop a robust and efficient network infrastructure of a Small Office Home Office (SOHO) Network with three departments IT, Finance and Customer Services. This involves the creation of segmented VLANs to manage traffic effectively between all the departments, configuring routers to enable inter-VLAN communication, implementing Password setting on Access Points of IT, Finance, Customer Service departments and integrating DHCP service pool for automatically IP address allocation. 
 
 # Network Technology implemented
 
